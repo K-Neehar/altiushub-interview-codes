@@ -1,4 +1,5 @@
-/*   Given an array of integers, implement a function to find the maximum sum of a contiguous subarray. 
+/*
+1. Given an array of integers, implement a function to find the maximum sum of a contiguous subarray. 
 Describe your approach and the time complexity of your solution. */
 
 #include<bits/stdc++.h>
