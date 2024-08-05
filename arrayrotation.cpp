@@ -1,3 +1,5 @@
+
+// 2.  Implement a function to rotate an array by k positions. Explain your method and the space complexity of your solution.
 #include<bits/stdc++.h>
 using namespace std;
 
